@@ -1,0 +1,660 @@
+# depslib dependency file v1.0
+1603030412 source:c:\users\rocio\desktop\baccaro.lucas.lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+
+1603028253 source:c:\users\rocio\desktop\baccaro.lucas.lab1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1603028353 source:c:\users\rocio\desktop\baccaro.lucas.lab1\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1603030334 source:c:\users\rocio\desktop\baccaro.lucas.lab1\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"auto.h"
+	"datorharcord.h"
+
+1603029656 c:\users\rocio\desktop\baccaro.lucas.lab1\auto.h
+	"marca.h"
+	"color.h"
+
+1603028026 c:\users\rocio\desktop\baccaro.lucas.lab1\marca.h
+	"color.h"
+
+1603028253 c:\users\rocio\desktop\baccaro.lucas.lab1\color.h
+
+1602969042 c:\users\rocio\desktop\baccaro.lucas.lab1\datorharcord.h
+
+1603240071 source:c:\users\lucas\onedrive\escritorio\abm.autos.lucas.baccaro.programacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"fecha.h"
+	"marca.h"
+	"color.h"
+	"auto.h"
+	"trabajo.h"
+	"servicio.h"
+
+1603198517 c:\users\lucas\onedrive\escritorio\abm.autos.lucas.baccaro.programacion\auto.h
+	"marca.h"
+	"color.h"
+
+1603199617 c:\users\lucas\onedrive\escritorio\abm.autos.lucas.baccaro.programacion\marca.h
+	"color.h"
+
+1603199616 c:\users\lucas\onedrive\escritorio\abm.autos.lucas.baccaro.programacion\color.h
+
+1603198517 source:c:\users\lucas\onedrive\escritorio\abm.autos.lucas.baccaro.programacion\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"auto.h"
+	"datorharcord.h"
+
+1603128764 c:\users\lucas\onedrive\escritorio\abm.autos.lucas.baccaro.programacion\datorharcord.h
+
+1603198517 source:c:\users\lucas\onedrive\escritorio\abm.autos.lucas.baccaro.programacion\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1603128764 source:c:\users\lucas\onedrive\escritorio\abm.autos.lucas.baccaro.programacion\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1603195943 source:c:\users\lucas\onedrive\escritorio\abm.autos.lucas.baccaro.programacion\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"trabajos.h"
+
+1603199304 source:c:\users\lucas\onedrive\escritorio\abm.autos.lucas.baccaro.programacion\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicios.h"
+
+1603199617 c:\users\lucas\onedrive\escritorio\abm.autos.lucas.baccaro.programacion\servicios.h
+
+1603199616 c:\users\lucas\onedrive\escritorio\abm.autos.lucas.baccaro.programacion\trabajos.h
+	"servicios.h"
+	"marca.h"
+	"color.h"
+	"auto.h"
+
+1603195943 source:c:\users\lucas\onedrive\escritorio\abm.autos.lucas.baccaro.programacion\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+
+1603199616 c:\users\lucas\onedrive\escritorio\abm.autos.lucas.baccaro.programacion\fecha.h
+
+1603200015 source:c:\users\lucas\onedrive\escritorio\abm.autos.lucas.baccaro.programacion\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"servicio.h"
+
+1603200015 c:\users\lucas\onedrive\escritorio\abm.autos.lucas.baccaro.programacion\servicio.h
+
+1603200665 source:c:\users\lucas\onedrive\escritorio\abm.autos.lucas.baccaro.programacion\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fecha.h"
+	"trabajo.h"
+
+1603200015 c:\users\lucas\onedrive\escritorio\abm.autos.lucas.baccaro.programacion\trabajo.h
+	"servicio.h"
+	"marca.h"
+	"color.h"
+	"auto.h"
+
+1603242735 source:c:\users\lucas\onedrive\escritorio\prueba de parte 2\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"auto.h"
+	"datorharcord.h"
+
+1603242640 c:\users\lucas\onedrive\escritorio\prueba de parte 2\auto.h
+	"marca.h"
+	"color.h"
+	"cliente.h"
+
+1603199617 c:\users\lucas\onedrive\escritorio\prueba de parte 2\marca.h
+	"color.h"
+
+1603199616 c:\users\lucas\onedrive\escritorio\prueba de parte 2\color.h
+
+1603240650 c:\users\lucas\onedrive\escritorio\prueba de parte 2\datorharcord.h
+
+1603128764 source:c:\users\lucas\onedrive\escritorio\prueba de parte 2\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1603195943 source:c:\users\lucas\onedrive\escritorio\prueba de parte 2\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+
+1603199616 c:\users\lucas\onedrive\escritorio\prueba de parte 2\fecha.h
+
+1603198517 source:c:\users\lucas\onedrive\escritorio\prueba de parte 2\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1603200015 source:c:\users\lucas\onedrive\escritorio\prueba de parte 2\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"servicio.h"
+
+1603200015 c:\users\lucas\onedrive\escritorio\prueba de parte 2\servicio.h
+
+1603241553 source:c:\users\lucas\onedrive\escritorio\prueba de parte 2\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fecha.h"
+	"trabajo.h"
+
+1603241577 c:\users\lucas\onedrive\escritorio\prueba de parte 2\trabajo.h
+	"servicio.h"
+	"marca.h"
+	"color.h"
+	"auto.h"
+	"cliente.h"
+
+1603242305 c:\users\lucas\onedrive\escritorio\prueba de parte 2\cliente.h
+
+1603242349 source:c:\users\lucas\onedrive\escritorio\prueba de parte 2\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1603242662 source:c:\users\lucas\onedrive\escritorio\prueba de parte 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"fecha.h"
+	"marca.h"
+	"color.h"
+	"auto.h"
+	"trabajo.h"
+	"servicio.h"
+	"cliente.h"
+
+1603242735 source:c:\users\lucas\onedrive\escritorio\prueba 2daparte del2\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"auto.h"
+	"datorharcord.h"
+
+1603242640 c:\users\lucas\onedrive\escritorio\prueba 2daparte del2\auto.h
+	"marca.h"
+	"color.h"
+	"cliente.h"
+
+1603199617 c:\users\lucas\onedrive\escritorio\prueba 2daparte del2\marca.h
+	"color.h"
+
+1603199616 c:\users\lucas\onedrive\escritorio\prueba 2daparte del2\color.h
+
+1603242305 c:\users\lucas\onedrive\escritorio\prueba 2daparte del2\cliente.h
+
+1603240650 c:\users\lucas\onedrive\escritorio\prueba 2daparte del2\datorharcord.h
+
+1603242349 source:c:\users\lucas\onedrive\escritorio\prueba 2daparte del2\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1603128764 source:c:\users\lucas\onedrive\escritorio\prueba 2daparte del2\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1603195943 source:c:\users\lucas\onedrive\escritorio\prueba 2daparte del2\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+
+1603199616 c:\users\lucas\onedrive\escritorio\prueba 2daparte del2\fecha.h
+
+1603244523 source:c:\users\lucas\onedrive\escritorio\prueba 2daparte del2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"fecha.h"
+	"marca.h"
+	"color.h"
+	"auto.h"
+	"trabajo.h"
+	"servicio.h"
+	"cliente.h"
+
+1603241577 c:\users\lucas\onedrive\escritorio\prueba 2daparte del2\trabajo.h
+	"servicio.h"
+	"marca.h"
+	"color.h"
+	"auto.h"
+	"cliente.h"
+
+1603200015 c:\users\lucas\onedrive\escritorio\prueba 2daparte del2\servicio.h
+
+1603198517 source:c:\users\lucas\onedrive\escritorio\prueba 2daparte del2\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1603200015 source:c:\users\lucas\onedrive\escritorio\prueba 2daparte del2\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"servicio.h"
+
+1603243944 source:c:\users\lucas\onedrive\escritorio\prueba 2daparte del2\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fecha.h"
+	"trabajo.h"
+
+1603242349 source:c:\users\lucas\onedrive\escritorio\prueba 2daparte.3\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1603242305 c:\users\lucas\onedrive\escritorio\prueba 2daparte.3\cliente.h
+
+1603128764 source:c:\users\lucas\onedrive\escritorio\prueba 2daparte.3\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1603199616 c:\users\lucas\onedrive\escritorio\prueba 2daparte.3\color.h
+
+1603252114 source:c:\users\lucas\onedrive\escritorio\prueba 2daparte.3\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+
+1603199616 c:\users\lucas\onedrive\escritorio\prueba 2daparte.3\fecha.h
+
+1603198517 source:c:\users\lucas\onedrive\escritorio\prueba 2daparte.3\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1603199617 c:\users\lucas\onedrive\escritorio\prueba 2daparte.3\marca.h
+	"color.h"
+
+1603200015 source:c:\users\lucas\onedrive\escritorio\prueba 2daparte.3\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"servicio.h"
+
+1603200015 c:\users\lucas\onedrive\escritorio\prueba 2daparte.3\servicio.h
+
+1603243944 source:c:\users\lucas\onedrive\escritorio\prueba 2daparte.3\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fecha.h"
+	"trabajo.h"
+
+1603241577 c:\users\lucas\onedrive\escritorio\prueba 2daparte.3\trabajo.h
+	"servicio.h"
+	"marca.h"
+	"color.h"
+	"auto.h"
+	"cliente.h"
+
+1603251577 c:\users\lucas\onedrive\escritorio\prueba 2daparte.3\auto.h
+	"marca.h"
+	"color.h"
+	"cliente.h"
+
+1603251971 source:c:\users\lucas\onedrive\escritorio\prueba 2daparte.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"fecha.h"
+	"marca.h"
+	"color.h"
+	"auto.h"
+	"trabajo.h"
+	"servicio.h"
+	"cliente.h"
+
+1603252241 source:c:\users\lucas\onedrive\escritorio\prueba 2daparte.3\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"auto.h"
+	"datorharcord.h"
+
+1603240650 c:\users\lucas\onedrive\escritorio\prueba 2daparte.3\datorharcord.h
+
+1603257058 source:c:\users\lucas\onedrive\escritorio\prueba2daparte.4\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"auto.h"
+	"datorharcord.h"
+
+1603256338 c:\users\lucas\onedrive\escritorio\prueba2daparte.4\auto.h
+	"marca.h"
+	"color.h"
+	"cliente.h"
+
+1603199617 c:\users\lucas\onedrive\escritorio\prueba2daparte.4\marca.h
+	"color.h"
+
+1603199616 c:\users\lucas\onedrive\escritorio\prueba2daparte.4\color.h
+
+1603242305 c:\users\lucas\onedrive\escritorio\prueba2daparte.4\cliente.h
+
+1603240650 c:\users\lucas\onedrive\escritorio\prueba2daparte.4\datorharcord.h
+
+1603242349 source:c:\users\lucas\onedrive\escritorio\prueba2daparte.4\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1603128764 source:c:\users\lucas\onedrive\escritorio\prueba2daparte.4\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1603252114 source:c:\users\lucas\onedrive\escritorio\prueba2daparte.4\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+
+1603199616 c:\users\lucas\onedrive\escritorio\prueba2daparte.4\fecha.h
+
+1603198517 source:c:\users\lucas\onedrive\escritorio\prueba2daparte.4\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1603200015 source:c:\users\lucas\onedrive\escritorio\prueba2daparte.4\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"servicio.h"
+
+1603200015 c:\users\lucas\onedrive\escritorio\prueba2daparte.4\servicio.h
+
+1603243944 source:c:\users\lucas\onedrive\escritorio\prueba2daparte.4\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fecha.h"
+	"trabajo.h"
+
+1603241577 c:\users\lucas\onedrive\escritorio\prueba2daparte.4\trabajo.h
+	"servicio.h"
+	"marca.h"
+	"color.h"
+	"auto.h"
+	"cliente.h"
+
+1603256653 source:c:\users\lucas\onedrive\escritorio\prueba2daparte.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"fecha.h"
+	"marca.h"
+	"color.h"
+	"auto.h"
+	"trabajo.h"
+	"servicio.h"
+	"cliente.h"
+
+1603128764 source:c:\users\lucas\onedrive\escritorio\preba2daparte.5\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1603199616 c:\users\lucas\onedrive\escritorio\preba2daparte.5\color.h
+
+1603252114 source:c:\users\lucas\onedrive\escritorio\preba2daparte.5\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+
+1603199616 c:\users\lucas\onedrive\escritorio\preba2daparte.5\fecha.h
+
+1603268756 source:c:\users\lucas\onedrive\escritorio\preba2daparte.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"fecha.h"
+	"marca.h"
+	"color.h"
+	"auto.h"
+	"trabajo.h"
+	"servicio.h"
+	"cliente.h"
+
+1603199617 c:\users\lucas\onedrive\escritorio\preba2daparte.5\marca.h
+	"color.h"
+
+1603268234 c:\users\lucas\onedrive\escritorio\preba2daparte.5\auto.h
+	"marca.h"
+	"color.h"
+	"cliente.h"
+
+1603258294 c:\users\lucas\onedrive\escritorio\preba2daparte.5\cliente.h
+
+1603241577 c:\users\lucas\onedrive\escritorio\preba2daparte.5\trabajo.h
+	"servicio.h"
+	"marca.h"
+	"color.h"
+	"auto.h"
+	"cliente.h"
+
+1603200015 c:\users\lucas\onedrive\escritorio\preba2daparte.5\servicio.h
+
+1603198517 source:c:\users\lucas\onedrive\escritorio\preba2daparte.5\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1603200015 source:c:\users\lucas\onedrive\escritorio\preba2daparte.5\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"servicio.h"
+
+1603243944 source:c:\users\lucas\onedrive\escritorio\preba2daparte.5\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fecha.h"
+	"trabajo.h"
+
+1603258294 source:c:\users\lucas\onedrive\escritorio\preba2daparte.5\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1603268234 source:c:\users\lucas\onedrive\escritorio\preba2daparte.5\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"auto.h"
+	"datorharcord.h"
+
+1603240650 c:\users\lucas\onedrive\escritorio\preba2daparte.5\datorharcord.h
+
+1603258294 source:c:\users\lucas\onedrive\escritorio\preba2daparte.6\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1603272648 c:\users\lucas\onedrive\escritorio\preba2daparte.6\cliente.h
+
+1603128764 source:c:\users\lucas\onedrive\escritorio\preba2daparte.6\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1603272648 c:\users\lucas\onedrive\escritorio\preba2daparte.6\color.h
+
+1603252114 source:c:\users\lucas\onedrive\escritorio\preba2daparte.6\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+
+1603272648 c:\users\lucas\onedrive\escritorio\preba2daparte.6\fecha.h
+
+1603273558 source:c:\users\lucas\onedrive\escritorio\preba2daparte.6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"fecha.h"
+	"marca.h"
+	"color.h"
+	"auto.h"
+	"trabajo.h"
+	"servicio.h"
+	"cliente.h"
+
+1603272648 c:\users\lucas\onedrive\escritorio\preba2daparte.6\marca.h
+	"color.h"
+
+1603273439 c:\users\lucas\onedrive\escritorio\preba2daparte.6\auto.h
+	"marca.h"
+	"color.h"
+	"cliente.h"
+
+1603241577 c:\users\lucas\onedrive\escritorio\preba2daparte.6\trabajo.h
+	"servicio.h"
+	"marca.h"
+	"color.h"
+	"auto.h"
+	"cliente.h"
+
+1603200015 c:\users\lucas\onedrive\escritorio\preba2daparte.6\servicio.h
+
+1603198517 source:c:\users\lucas\onedrive\escritorio\preba2daparte.6\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1603200015 source:c:\users\lucas\onedrive\escritorio\preba2daparte.6\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"servicio.h"
+
+1603243944 source:c:\users\lucas\onedrive\escritorio\preba2daparte.6\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fecha.h"
+	"trabajo.h"
+
+1603273439 source:c:\users\lucas\onedrive\escritorio\preba2daparte.6\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"auto.h"
+	"datorharcord.h"
+
+1603240650 c:\users\lucas\onedrive\escritorio\preba2daparte.6\datorharcord.h
+
